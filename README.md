@@ -1,15 +1,5 @@
 # Hi there, I'm Gilang 👋
 
-<p align="center">
-  <a href="https://github.com/glng-swndru"><img src="https://github-readme-stats.vercel.app/api?username=glng-swndru" alt="Gilang's GitHub Stats" /></a>
-</p>
-<br />
-<p align="center">
-  <a href="https://github.com/glng-swndru/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glng-swndru" />
-</a>
-</p>
-
 ## I'm a Single Fighter Developer!
 - 🌱 I’m currently learning about Golang, MERN, and Google Cloud.
 - 👯 I’m looking to collaborate with other developers.
@@ -33,4 +23,14 @@
   <a href="https://www.instagram.com/gilang_swndru/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/glng-swndru"><img src="https://github-readme-stats.vercel.app/api?username=glng-swndru" alt="Gilang's GitHub Stats" /></a>
+</p>
+<br />
+<p align="center">
+  <a href="https://github.com/glng-swndru/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glng-swndru" />
+</a>
 </p>
