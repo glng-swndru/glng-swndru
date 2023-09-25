@@ -3,6 +3,11 @@
 <p align="center">
   <a href="https://github.com/glng-swndru"><img src="https://github-readme-stats.vercel.app/api?username=glng-swndru" alt="Gilang's GitHub Stats" /></a>
 </p>
+<br />
+<br />
+<a href="https://github.com/glng-swndru/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glng-swndru" />
+</a>
 
 ## I'm a Single Fighter Developer!
 - 🌱 I’m currently learning about Golang, MERN, and Google Cloud.
