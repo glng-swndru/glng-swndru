@@ -1,9 +1,8 @@
 # Hi there, I'm Gilang 👋
 
-- 🌱 I’m currently learning about Golang, DevOps, and Cloud Computing.
+- 🌱 I’m currently learning about Golang and DevOps.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2023-2024 Goals: Learn cloud computing technology, DevOps, and web development.
-- ⚡ Fun fact: I like UI/UX, but I prefer backend over frontend.
 
 
 ### Languages and Tools  
